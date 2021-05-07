@@ -1,3 +1,3 @@
 # Veille-Techno-CSI
 
-[Aperçu](https://github.com/idembele70/Veille-Techno-CSI/)
+[Aperçu](https://idembele70.github.io/Veille-Techno-CSI/)
