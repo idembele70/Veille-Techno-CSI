@@ -146,8 +146,8 @@ i {
   min-height: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
+  flex-direction: row;
   -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
 }
@@ -242,6 +242,7 @@ i {
   animation-name: p-show;
   animation-duration: 1.5s;
   text-align: justify;
+  height: 180px;
 }
 .card-article a {
   border: none;
