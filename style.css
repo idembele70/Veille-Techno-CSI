@@ -139,6 +139,7 @@ i {
 /* Hors main */
 .main-conteneur {
   display: flex;
+  flex-direction: column;
   min-height: 100vh;
 }
 .conteneur {
@@ -154,7 +155,6 @@ i {
 .conteneur-row {
   padding: 40px;
   display: flex;
-  flex-wrap: wrap;
 }
 
 .center {
